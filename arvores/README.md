@@ -1,1 +1,1 @@
-Exemplos usando arvores
+Exemplos utilizando arvores binarias
